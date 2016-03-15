@@ -1,0 +1,19 @@
+{
+  "name": "google-swiffy-runtime",
+  "version": "1.0.0",
+  "description": "Copy of Google Swiffy runtime to make a bower package.",
+  "main": "runtime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agustinrodriguez/google-swiffy-runtime.git"
+  },
+  "author": "agustinrodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agustinrodriguez/google-swiffy-runtime/issues"
+  },
+  "homepage": "https://github.com/agustinrodriguez/google-swiffy-runtime#readme"
+}
